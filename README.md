@@ -65,7 +65,7 @@ CMOS OV2710 Sensor
     
 
 ## 결과
-
+![sample](https://user-images.githubusercontent.com/78397899/183023518-8d156e94-045a-441a-adef-e143d1becd1e.gif)
 
 
 ### Trial 1
